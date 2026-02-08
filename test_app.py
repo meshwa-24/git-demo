@@ -7,7 +7,7 @@ def test_add():
     print("Add test Passed")
 
 def test_subtract():
-    assert subtract(5,2)=3
+    assert subtract(5,2)==3
     assert subtract(10,10)==0
     print("Sub test Passed")
 
